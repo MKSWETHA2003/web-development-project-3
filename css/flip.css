@@ -1,0 +1,60 @@
+.t-1{
+   display: flex;
+    grid-gap: 126px;
+}
+.img-1{
+    margin-left: 25px;
+}
+.t-1 h3{
+    border-style: inset;
+    height: 25px;
+    background-color:white;
+}
+.t-1 input{
+    height: 37px;
+    width: 301px;
+    margin-top: 18px;
+}
+.t-1 button{
+    height: 48px;
+    width: 118px;
+    margin-top: 20px;
+}
+.task-1{
+    border-style: ridge;
+    background-color: blue;
+    color: black;
+    border: none;
+}
+
+.t-1 h4{
+    color:white;
+    font-size:20px;
+}
+.tt-1{
+    display: flex;
+    grid-gap: 85px;
+    border-style: ridge;
+    height: 40px;
+    font-size: 17px;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+.s-1{
+    text-align:center;
+}
+.s-1 h5{
+    color:darkgrey;
+}
+.class-1{
+    display: flex;
+    grid-gap: 45px;
+    text-align: center;
+    font-size: 15px;
+}
+.imm1{
+    margin-top: 45px;
+    display: flex;
+    grid-gap: 50px;
+    text-align:center;
+}
